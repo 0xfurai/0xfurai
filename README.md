@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ❤️ Rust, Go, TypeScript
 - 🌱 Currently building Peekaping
 
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=0xfurai&show_icons=true&theme=radical)](https://github.com/0xfurai)
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=0xfurai&show_icons=true&theme=tokyonight)](https://github.com/0xfurai)
